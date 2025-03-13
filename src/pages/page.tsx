@@ -1,7 +1,6 @@
-import { Link } from "react-router-dom";
 import { Button } from "../components/ui/button";
 // import { Input } from "../components/ui/input";
-import { Play, Music, Instagram, Twitter, Youtube } from "lucide-react";
+import { Play, Instagram, Twitter, Youtube } from "lucide-react";
 // import  image  from "../../public/image.png"
 
 export default function RapperLandingPage() {
